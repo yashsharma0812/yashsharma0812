@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 B.Tech Computer Science | AI & Algorithm Enthusiast  <br><br>I am passionate about advancing my knowledge in Artificial Intelligence, Data Structures, Algorithms, and Software Engineering.  <br>I focus on writing efficient, optimized code and understanding the logic behind systems rather than just implementation.<br><br>My goal is to build intelligent and scalable systems while strengthening my core computer science foundations.<br><br>Languages: C/C++, Java, Python  <br>Interests: AI, DSA, System Design, Competitive Programming<br>
 
 
